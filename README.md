@@ -1,7 +1,4 @@
 
-
-The system consists of the following:
-
 - Frontend written in ReactJs
 - Backend - API are created using Python Flask
 
